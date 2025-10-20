@@ -1,6 +1,5 @@
 # Simple Password Guesser In Python - Educational and Ethical Purposes ONLY
-Give the program a password to work with, and it'll start generating random combinations of digits and letters. Useful if
-you want to test how long it would take scripts like this to guess your password.
+Give the program a password to work with, and it'll start generating random combinations of digits and letters.
 
 # Features
 - It can be changed to make it recieve user-input, but by default it must be hardcoded before running.

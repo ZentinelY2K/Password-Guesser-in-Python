@@ -15,8 +15,8 @@ you want to test how long it would take scripts like this to guess your password
 It is a python file, run it and have fun with it.
 
 # Demo
-<No demo Yet>
+!No demo Yet
 
 # Links
-<no links yet>
+!no links yet
 

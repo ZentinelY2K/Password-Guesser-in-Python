@@ -8,15 +8,15 @@ you want to test how long it would take scripts like this to guess your password
 - Fast and reliable for passwords with no words or special characters
 - Simple and easy to make
 
-#Tech Stack
+# Tech Stack
 - Python, VS Code
 
-#How To Run
+# How To Run
 It is a python file, run it and have fun with it.
 
-#Demo
+# Demo
 <No demo Yet>
 
-#Links
+# Links
 <no links yet>
 
